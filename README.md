@@ -4,7 +4,7 @@ This project implements a Sudoku solver that takes an image of a Sudoku puzzle a
 
 ## Sample Image
 
-<img src="https://github.com/Gnaneshwar03/OCR-Sudoku-Solver/assets/107243397/2a490a73-33ae-4bfe-8cef-6e58ea1c48e7" width="100" height="100">
+<img src="https://github.com/Gnaneshwar03/OCR-Sudoku-Solver/assets/107243397/2a490a73-33ae-4bfe-8cef-6e58ea1c48e7" width="350" height="350">
 
 ## Features
 
