@@ -1,8 +1,10 @@
-# OCR Sudoku Solver
-
-# Image Sudoku Solver
+# Image Sudoku Solver (OCR Based)
 
 This project implements a Sudoku solver that takes an image of a Sudoku puzzle as input and returns the solved puzzle overlaid on the original image.
+
+## Sample Image
+
+![image](https://github.com/Gnaneshwar03/OCR-Sudoku-Solver/assets/107243397/2a490a73-33ae-4bfe-8cef-6e58ea1c48e7)
 
 ## Features
 
